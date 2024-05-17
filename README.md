@@ -5,6 +5,8 @@
 
 - 🔭 A life long learner, Currently exploring more about Data Analytics **!**
 
+- 📚 Specialized in Data collection, data cleaning, data analysis, and data Visualization. **Data Analytics**
+
 - 💬 I’m currently learning and upskilling myself into Data Analytics **.**
 
 - 🧰 My analytics toolbox contains SQL, Python, Power BI, Data Modeling, DAX, Power Query & MS Excel **.**
@@ -13,14 +15,12 @@
 
 - 📝 Connect me on LinkedIn: [https://www.linkedin.com/in/anshultripathi15/](https://www.linkedin.com/in/anshultripathi15/)
 
-- 📚 Specialized in Data collection, data cleaning, data analysis, and data Visualization. **Data Analytics**
-
 - 📫 Ask me about **SQL,Excel, Power BI**
 
 - 📄 All of my projects are available at [https://github.com/imanshul15](https://github.com/imanshul15)
 
 - ⚡ Fun fact **I convert raw data into Insightful Information**
 
-<h3 align="left"></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
