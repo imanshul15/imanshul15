@@ -21,6 +21,6 @@
 
 - ⚡ Fun fact I convert raw data into Insightful Information
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
