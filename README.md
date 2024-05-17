@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hello👋, I'm Anshul Tripathi</h1>
+<h3 align="center">A passionate Data Analyst from India 📊</h3>
 
-<!--
-**imanshul15/imanshul15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanshul15&label=Profile%20views&color=0e75b6&style=flat" alt="imanshul15" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 A life long learner, Currently exploring more about Data Analytics **!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I’m currently learning and upskilling myself into Data Analytics **.**
+
+- 🧰 My analytics toolbox contains SQL, Python, Power BI, Data Modeling, DAX, Power Query & MS Excel **.**
+
+- 👨‍💻 Reach me at: [anshultripathi2050@gmail.com](anshultripathi2050@gmail.com)
+
+- 📝 Connect me on LinkedIn: [https://www.linkedin.com/in/anshultripathi15/](https://www.linkedin.com/in/anshultripathi15/)
+
+- 📚 Specialized in Data collection, data cleaning, data analysis, and data Visualization. **Data Analytics**
+
+- 📫 Ask me about **SQL,Excel, Power BI**
+
+- 📄 All of my projects are available at [https://github.com/imanshul15](https://github.com/imanshul15)
+
+- ⚡ Fun fact **I convert raw data into Insightful Information**
+
+<h3 align="left"></h3>
+<p align="left">
+</p>
