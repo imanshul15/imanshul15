@@ -11,15 +11,15 @@
 
 - 🧰 My analytics toolbox contains SQL, Python, Power BI, Data Modeling, DAX, Power Query & MS Excel **.**
 
+- 📫 Ask me about **SQL,Excel, Power BI**
+
 - 📝 Connect me on LinkedIn: [https://www.linkedin.com/in/anshultripathi15/](https://www.linkedin.com/in/anshultripathi15/)
 
 - 📄 All of my projects are available at [https://github.com/imanshul15](https://github.com/imanshul15)
 
-- 📫 Ask me about **SQL,Excel, Power BI**
-
 - 👨‍💻 Reach me at: **anshultripathi2050@gmail.com**
 
-- ⚡ Fun fact [I convert raw data into Insightful Information](I convert raw data into Insightful Information)
+- ⚡ Fun fact I convert raw data into Insightful Information
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
