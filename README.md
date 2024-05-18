@@ -19,7 +19,7 @@
 
 - 👨‍💻 Reach me at: **anshultripathi2050@gmail.com**
 
-- ⚡ Fun fact I convert raw data into Insightful Information
+- ⚡ Fun fact **I convert raw data into Insightful Information**
 
 <h3 align="left"></h3>
 <p align="left">
